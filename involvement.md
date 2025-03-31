@@ -1,6 +1,15 @@
-# HELLO WORLD!
-### &emsp; &emsp; my&emsp;name&emsp;is&emsp;DAORA,
-a cybersecurity student and aspiring ***Red Teamer***,&emsp;efficient in network security and assessing vulnerabilities.&emsp;Ever since I was young I have always had a knack for technology,&emsp;and now look forward to integrating myself into our ever-growing cyberworld.
+## <pre>Projects</pre> 
+- Assembled a Wi-Fi pineapple on a Raspberry Pi 4 with the assistance of my team during my schooling, leading the project using open-source software and wireless adapters
+-	Simulated penetration tests through the virtual machine Metasploitable
+-	Simulated penetration tests with the help of my colleague's personally crafted vulnerable web server
+ 
 
-### <pre>INTERESTED IN MY PORTFOLIO? &emsp;THEN TAKE A LOOK BELOW!</pre>
-&emsp;[my resume.](https://github.com/zaunite/portfolio/blob/e27dd523a2339f8eb79b49d92c45e6e419fccc58/RESUME.pdf) &emsp; certifications & skills. &emsp; projects & community.
+<br></br>
+
+## <pre>Community Involvement</pre>
+- Attended Cyber Florida’s Sunshine Cyber Conference in 2025
+- Attending ISC2’s BSides Tampa 2025
+- Regularly participate in TryHackMe's community events
+
+<br></br>
+### WANT TO CONNECT? &emsp;HERE'S [MY LINKEDIN!](https://www.linkedin.com/in/daora-russell-912400324/)
