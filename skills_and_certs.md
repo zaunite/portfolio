@@ -23,13 +23,13 @@ software, including the suites above, on a Raspberry Pi 4
 - Nmap, Ncat, and SQLmap
 - Metasploit
 - Navigating OSINT tools and databases, adept in enumeration on both networks and persons
-- Familiar with scripting languages such as Python and Bash, markup languages, like HTML and CSS, and SQL
+- Familiar with scripting languages such as Python and Bash,&emsp;markup languages, like HTML and CSS,&emsp;and SQL
 
 <br></br>
 *Networking*
 - Adept in network security, including handshakes, related network protocols, and the operation of monitoring tools
 - Familiar with the OSI model layers and how they function
-- Skilled in network reconnaissance cracking, and assessment
+- Skilled in network cracking and assessment
   
 <br></br>
 *Operating Systems*
