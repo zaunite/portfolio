@@ -1,7 +1,8 @@
 ## <pre>Projects</pre> 
 - Assembled a Wi-Fi pineapple on a Raspberry Pi 4 with the assistance of my team during my schooling, leading the project using open-source software and wireless adapters
--	Simulated penetration tests through the virtual machine Metasploitable
--	Simulated penetration tests with the help of my colleague's personally crafted vulnerable web server
+-	Simulated penetration tests through the virtual machine Metasploitable, creating numerous footholds and backdoors through exploiting multiple protocols and ports
+-	Simulated penetration tests with the help of my colleague's personally crafted vulnerable web server, accessed through SSH after cracking credentials
+-	Actively building a honeypot for a small home network
  
 
 <br></br>
