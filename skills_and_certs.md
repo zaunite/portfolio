@@ -1,13 +1,13 @@
 ## <pre>CERTIFICATIONS</pre>
 *CompTIA*
-- Security+&emsp;(dec.  2024)
-- PenTest+&emsp;(anticipated apr.  2025)
-- A+&emsp;(anticipated dec.  2025)
+- Security+&emsp;(DEC.  2024)
+- PenTest+&emsp;(anticipated APR.  2025)
+- A+&emsp;(anticipated DEC.  2025)
 
 <br></br>
 *Cisco*
-- Python Essentials 1 + 2&emsp;(anticipated apr.  2025)
-- Networking Basics&emsp;(anticipated may.  2025)
+- Python Essentials 1 + 2&emsp;(anticipated APR.  2025)
+- Networking Basics&emsp;(anticipated MAY.  2025)
 
 
 <br></br>
