@@ -3,12 +3,12 @@
 - Security+&emsp;(DEC.  2024)
 - PenTest+&emsp;(APR.  2025)
 
-  &emsp;Network Vulnerability Assesmemnt Professional
+  &emsp;- Network Vulnerability Assesmemnt Professional
 - A+&emsp;(anticipated DEC.  2025)
 
 <br></br>
 *Cisco*
-- Python Essentials 1 + 2&emsp;(anticipated APR.  2025)
+- Python Essentials 1 + 2&emsp;(APR.  2025)
 - Networking Basics&emsp;(anticipated MAY.  2025)
 
 
