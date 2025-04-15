@@ -2,7 +2,8 @@
 *CompTIA*
 - Security+&emsp;(DEC.  2024)
 - PenTest+&emsp;(APR.  2025)
-    Network Vulnerability Assesmemnt Professional
+
+  &emsp;Network Vulnerability Assesmemnt Professional
 - A+&emsp;(anticipated DEC.  2025)
 
 <br></br>
